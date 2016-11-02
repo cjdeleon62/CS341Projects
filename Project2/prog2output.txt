@@ -1,0 +1,1399 @@
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $_a_3B$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: _
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol _: q4
+
+Current symbol: a
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol a: q4
+
+Current symbol: _
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol _: q4
+
+Current symbol: 3
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 3: q4
+
+Current symbol: B
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol B: q4
+
+Current symbol: $
+The character $ was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol $: q7
+
+String was accepted by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $_ba76+R*3-fF_45n/812$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: _
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol _: q4
+
+Current symbol: b
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol b: q4
+
+Current symbol: a
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol a: q4
+
+Current symbol: 7
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 7: q4
+
+Current symbol: 6
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 6: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: R
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol R: q4
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: 3
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 3: q3
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q5
+
+Current symbol: f
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol f: q4
+
+Current symbol: F
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol F: q4
+
+Current symbol: _
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol _: q4
+
+Current symbol: 4
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 4: q4
+
+Current symbol: 5
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 5: q4
+
+Current symbol: n
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol n: q4
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q5
+
+Current symbol: 8
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 8: q3
+
+Current symbol: 1
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 1: q3
+
+Current symbol: 2
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 2: q3
+
+Current symbol: $
+The character $ was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol $: q7
+
+String was accepted by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $ba+_c4*7m-f8/h98u$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: b
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol b: q4
+
+Current symbol: a
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol a: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: _
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol _: q4
+
+Current symbol: c
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol c: q4
+
+Current symbol: 4
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 4: q4
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: 7
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 7: q3
+
+Current symbol: m
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol m: q8
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q8
+
+Current symbol: f
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol f: q8
+
+Current symbol: 8
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 8: q8
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q8
+
+Current symbol: h
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol h: q8
+
+Current symbol: 9
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 9: q8
+
+Current symbol: 8
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 8: q8
+
+Current symbol: u
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol u: q8
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $(x23g)y33$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: x
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol x: q4
+
+Current symbol: 2
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 2: q4
+
+Current symbol: 3
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 3: q4
+
+Current symbol: g
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol g: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: y
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol y: q8
+
+Current symbol: 3
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 3: q8
+
+Current symbol: 3
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 3: q8
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $(((r1+9-fs)*212))*(a2)$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: r
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol r: q4
+
+Current symbol: 1
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 1: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: 9
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 9: q3
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q5
+
+Current symbol: f
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol f: q4
+
+Current symbol: s
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol s: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: 2
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 2: q3
+
+Current symbol: 1
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 1: q3
+
+Current symbol: 2
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 2: q3
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: a
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol a: q4
+
+Current symbol: 2
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 2: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: $
+The character $ was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol $: q7
+
+String was accepted by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $(t0+wk)*bn)/c1$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: t
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol t: q4
+
+Current symbol: 0
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 0: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: w
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol w: q4
+
+Current symbol: k
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol k: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: b
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol b: q4
+
+Current symbol: n
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol n: q4
+
+Current symbol: )
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol ): q8
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q8
+
+Current symbol: c
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol c: q8
+
+Current symbol: 1
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 1: q8
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $(((ui+ej*(vk+ci))/pt)$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: u
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol u: q4
+
+Current symbol: i
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol i: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: e
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol e: q4
+
+Current symbol: j
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol j: q4
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: v
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol v: q4
+
+Current symbol: k
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol k: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: c
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol c: q4
+
+Current symbol: i
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol i: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q5
+
+Current symbol: p
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol p: q4
+
+Current symbol: t
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol t: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $+g5$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q8
+
+Current symbol: g
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol g: q8
+
+Current symbol: 5
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 5: q8
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $52*(872/(P+kd34E/e3)-FW)+6/(((rw*_y4_b_d-r57ee*t)/y6+ugf))$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: 5
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 5: q3
+
+Current symbol: 2
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 2: q3
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: 8
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 8: q3
+
+Current symbol: 7
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 7: q3
+
+Current symbol: 2
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 2: q3
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q5
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: P
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol P: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: k
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol k: q4
+
+Current symbol: d
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol d: q4
+
+Current symbol: 3
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 3: q4
+
+Current symbol: 4
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 4: q4
+
+Current symbol: E
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol E: q4
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q5
+
+Current symbol: e
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol e: q4
+
+Current symbol: 3
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 3: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q5
+
+Current symbol: F
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol F: q4
+
+Current symbol: W
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol W: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: 6
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 6: q3
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q5
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: r
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol r: q4
+
+Current symbol: w
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol w: q4
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: _
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol _: q4
+
+Current symbol: y
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol y: q4
+
+Current symbol: 4
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 4: q4
+
+Current symbol: _
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol _: q4
+
+Current symbol: b
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol b: q4
+
+Current symbol: _
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol _: q4
+
+Current symbol: d
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol d: q4
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q5
+
+Current symbol: r
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol r: q4
+
+Current symbol: 5
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 5: q4
+
+Current symbol: 7
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 7: q4
+
+Current symbol: e
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol e: q4
+
+Current symbol: e
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol e: q4
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: t
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol t: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q5
+
+Current symbol: y
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol y: q4
+
+Current symbol: 6
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 6: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: u
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol u: q4
+
+Current symbol: g
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol g: q4
+
+Current symbol: f
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol f: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: $
+The character $ was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol $: q7
+
+String was accepted by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $g0*(hs+(df-*ft))$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: g
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol g: q4
+
+Current symbol: 0
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 0: q4
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: h
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol h: q4
+
+Current symbol: s
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol s: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: d
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol d: q4
+
+Current symbol: f
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol f: q4
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q5
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q8
+
+Current symbol: f
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol f: q8
+
+Current symbol: t
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol t: q8
+
+Current symbol: )
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol ): q8
+
+Current symbol: )
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol ): q8
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $(tg+(hy-j7))/uk)*ri+(eo/wp$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: t
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol t: q4
+
+Current symbol: g
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol g: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: h
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol h: q4
+
+Current symbol: y
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol y: q4
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q5
+
+Current symbol: j
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol j: q4
+
+Current symbol: 7
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 7: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q5
+
+Current symbol: u
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol u: q4
+
+Current symbol: k
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol k: q4
+
+Current symbol: )
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol ): q8
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q8
+
+Current symbol: r
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol r: q8
+
+Current symbol: i
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol i: q8
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q8
+
+Current symbol: (
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol (: q8
+
+Current symbol: e
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol e: q8
+
+Current symbol: o
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol o: q8
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q8
+
+Current symbol: w
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol w: q8
+
+Current symbol: p
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol p: q8
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $(tg+(hy-j9))/uk)ri$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: t
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol t: q4
+
+Current symbol: g
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol g: q4
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: h
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol h: q4
+
+Current symbol: y
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol y: q4
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q5
+
+Current symbol: j
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol j: q4
+
+Current symbol: 9
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol 9: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: /
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol /: q5
+
+Current symbol: u
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol u: q4
+
+Current symbol: k
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol k: q4
+
+Current symbol: )
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol ): q8
+
+Current symbol: r
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol r: q8
+
+Current symbol: i
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol i: q8
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $wm-(tn*bu)+$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: w
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol w: q4
+
+Current symbol: m
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol m: q4
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q5
+
+Current symbol: (
+The character ( was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol (: q2
+
+Current symbol: t
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol t: q4
+
+Current symbol: n
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol n: q4
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q5
+
+Current symbol: b
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol b: q4
+
+Current symbol: u
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol u: q4
+
+Current symbol: )
+The character ( was popped from the stack.
+Nothing was pushed onto the stack.
+Current state after reading symbol ): q6
+
+Current symbol: +
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol +: q5
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $wm-tn(*bu)$
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: w
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol w: q4
+
+Current symbol: m
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol m: q4
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q5
+
+Current symbol: t
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol t: q4
+
+Current symbol: n
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol n: q4
+
+Current symbol: (
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol (: q8
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q8
+
+Current symbol: b
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol b: q8
+
+Current symbol: u
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol u: q8
+
+Current symbol: )
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol ): q8
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+Please enter a string to see if the PDA accepts it: 
+
+You entered: $wm-)tn*bu($
+
+starting in state q0
+
+Current symbol: $
+The character $ was pushed onto the stack.
+Nothing was popped from the stack.
+Current state after reading symbol $: q1
+
+Current symbol: w
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol w: q4
+
+Current symbol: m
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol m: q4
+
+Current symbol: -
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol -: q5
+
+Current symbol: )
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol ): q8
+
+Current symbol: t
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol t: q8
+
+Current symbol: n
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol n: q8
+
+Current symbol: *
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol *: q8
+
+Current symbol: b
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol b: q8
+
+Current symbol: u
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol u: q8
+
+Current symbol: (
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol (: q8
+
+Current symbol: $
+Nothing was pushed onto the stack or popped from the stack.
+Current state after reading symbol $: q8
+
+PDA crashed before reaching the end of the input string.
+String was rejected by PDA.
+-----------------------------------------------------------
+
+Do you want to enter a string? (y or n)
+
+goodbye.
