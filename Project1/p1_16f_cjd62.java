@@ -1,8 +1,3 @@
-/*
- * Christopher de leon
- * CS341 Project1
- * UCID: cjd62
- */
 import java.io.PrintStream;
 import java.util.*;
 import java.io.FileOutputStream;
